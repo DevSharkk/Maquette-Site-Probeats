@@ -6,4 +6,3 @@ Ce dépôt contient la maquette du site web Probeats, réalisée avec Figma. La 
 - Des visuels haute fidélité illustrant les fonctionnalités principales du site.
 N'hésitez pas à explorer le fichier Figma et à partager vos retours. Les contributions pour améliorer le design sont les bienvenues !
 
-"https://www.figma.com/proto/sNqCwjsj2C7fPoev8017Jo/Devoir-Maquette-Figma-Maxime-Levacher?node-id=2408-158&t=6cG1hwaMlcFpKcvc-1"
